@@ -1,0 +1,16 @@
+{
+  "name": "polyweb-cz/attachment-sdk",
+  "description": "Attachment development kit",
+  "version": "0.0.1",
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PolyWeb\\Attachment\\Sdk\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "classmap": ["src/"]
+  }
+}
