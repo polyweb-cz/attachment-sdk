@@ -1,7 +1,7 @@
 {
   "name": "polyweb-cz/attachment-sdk",
   "description": "Attachment development kit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "require": {
     "php": ">=8.0"
   },
